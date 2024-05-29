@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="title">Currency Converter</string>
+    <string name="from_label_hint">Enter Amount</string>
+    <string name="from_unit_hint">From Currency</string>
+    <string name="to_label_hint">Converted Amount</string>
+    <string name="to_unit_hint">To Currency</string>
+    <string name="convert_button">Convert</string>
+</resources>
