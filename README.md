@@ -22,6 +22,8 @@ Prevents crashes from empty input or invalid values.
 ✅ ✔ Lightweight & Efficient
 No unnecessary libraries — clean architecture and smooth performance.
 
+---
+
 
 | 🛠️ Tech |  Stack |
  | -------- | ----- | 
@@ -31,6 +33,8 @@ No unnecessary libraries — clean architecture and smooth performance.
  | IDE	 | Android Studio | 
  | API/Network | 	Retrofit / HttpURLConnection / Volley (use whichever your app uses) | 
  | Architecture	 | MVC / MVVM (optional) | 
+
+ ---
 
  ## 🔧 How It Works
 1. User Selects Currencies From dropdown menus (Spinners), the user chooses:    
@@ -47,4 +51,18 @@ App sends a request to the live exchange rate API.
 double result = inputAmount * exchangeRate;
 
 5. Result Displayed  
-Updated converted amount appears instantly.  
+Updated converted amount appears instantly.
+
+---
+
+❤️ About the Author
+
+Handled By :
+
+🪶 Developer
+
+Muhamad Haneef J
+Student | Web Developer | Full Stack Learner
+📍 Government College of Technology, Coimbatore.
+
+<img width="800" height="200" alt="J Muhamad haneef" src="https://github.com/user-attachments/assets/146a1b4a-0a04-4aec-aa4f-7b7901f7ff00" />
