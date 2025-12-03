@@ -33,11 +33,9 @@ No unnecessary libraries — clean architecture and smooth performance.
  | Architecture	 | MVC / MVVM (optional) | 
 
  ## 🔧 How It Works
-1. User Selects Currencies
-
-From dropdown menus (Spinners), the user chooses:  
+1. User Selects Currencies From dropdown menus (Spinners), the user chooses:    
 Base currency  
-Target currency  
+Target currency    
 
 2. User Enters Amount  
 Amount to convert is typed in the EditText field.  
